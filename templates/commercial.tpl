@@ -1,0 +1,1 @@
+<div id="commercial" ><img src="{$smarty.const.MAIN_IMAGES}side_pic.jpg" style="width:100%;" ></div>
